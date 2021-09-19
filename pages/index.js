@@ -21,7 +21,7 @@ export default function Home() {
       {/* <Loading /> */}
       <div className="bg-gray-900 h-screen flex items-center">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 flex items-center lg:justify-between">
-          <img src="/logo.svg" className="w-20 h-20 mr-3 rounded-full mx-auto" />
+          <img src="/logo.svg" className="w-20 h-20 mr-3 rounded-full" />
           <h2 className="text-3xl font-extrabold tracking-tight text-gray-900 sm:text-4xl">
             <span className="block text-white">Are you ready to code?</span>
             <span className="block text-indigo-600">Net Hero.</span>
