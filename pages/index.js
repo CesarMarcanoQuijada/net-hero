@@ -19,7 +19,7 @@ export default function Home() {
           <img className="h-12 w-12 rounded-full" src="/logo.png" alt="Net Hero Logo" />
         </div>
         <div>
-          <div className="text-xl font-medium text-black dark:text-white">Net Hero</div>
+          <div className="text-xl font-medium text-white">Net Hero</div>
         <div className="relative pt-1">
           <div className="overflow-hidden h-2 mb-4 text-xs flex rounded bg-blue-200">
             <div className="shadow-none rounded flex flex-col text-center whitespace-nowrap text-white justify-center bg-blue-500 progress"></div>
