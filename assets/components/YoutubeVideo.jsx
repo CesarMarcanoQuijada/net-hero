@@ -1,7 +1,7 @@
 export default function YoutubeVideo({ id, width, height, title }) {
     return (
         <iframe
-            width={width || 560}
+            width={width || "100%"}
             height={height || 315}
             src={`https://www.youtube.com/embed/${id}`}
             title={title}
