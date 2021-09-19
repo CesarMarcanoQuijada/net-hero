@@ -1,0 +1,16 @@
+.progress {
+  animation: progress 1s infinite;
+  width: 20%;
+}
+
+@keyframes progress {
+  from {
+    margin-left: 0%;
+  }
+  50% {
+    margin-left: 80%;
+  }
+  to {
+    margin-left: 0%;
+  }
+}
