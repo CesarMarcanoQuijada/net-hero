@@ -4,7 +4,7 @@ export default function Loading() {
             <div className="p-2 max-w-sm mx-auto rounded-xl bg-gray-800 shadow-lg">
                 <div className="p-6 flex items-center space-x-4">
                 <div className="flex-shrink-0">
-                    <img className="h-12 w-12 rounded-full" src="/logo.png" alt="Net Hero Logo" />
+                    <img className="h-12 w-12 rounded-full" src="/logo.svg" alt="Net Hero Logo" />
                 </div>
                 <div className="flex justify-center items-center flex-col h-full">
                     <div className="text-xl font-medium text-white">Net Hero</div>
