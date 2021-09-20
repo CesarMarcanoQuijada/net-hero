@@ -1,6 +1,6 @@
 import TypewriterComponent from "typewriter-effect";
 
-export function MainSection() {
+export default function MainSection() {
     return  (
         <div className="bg-gray-900 h-screen flex items-center">
         <div className="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 flex items-center lg:justify-between">
