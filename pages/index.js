@@ -5,7 +5,7 @@ import { useState, useEffect } from 'react'
 import Loading from '../assets/screens/Loading';
 import AppBar from '../assets/components/AppBar';
 import YoutubeVideo from '../assets/components/YoutubeVideo';
-import { MainSection } from '../assets/components/MainSection';
+import MainSection from '../assets/components/MainSection';
 
 export default function Home() {
   const [progress, setProgress] = useState(0);
